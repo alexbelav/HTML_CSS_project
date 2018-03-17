@@ -1292,9 +1292,7 @@ footer {
 }
 
 @media (max-height: 800px) {
-	header {
-		min-height: 790px;
-	}
+	
 
 	#logo {
 		height: 94px;
